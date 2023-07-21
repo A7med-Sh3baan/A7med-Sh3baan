@@ -30,6 +30,9 @@ My skills:
 Programming Languages:
 Python, SQL , Oracle SQL, Pyspark, Dax 
 ![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/f1f4fc66-3302-429b-8f1a-5aec68566499)
+![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/36f31db4-5284-43a9-86b6-5fa4ad250f01)
+![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/241a541a-d38b-4dcd-b00b-860de98eff3a)
+![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/c656d155-9eef-40ed-ad7d-96af5144aa43)
 
 Technologies:
 Data Science

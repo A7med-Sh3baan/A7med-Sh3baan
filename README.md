@@ -32,13 +32,7 @@ A Data Enthusiast 📊 with a Physics background who is filled with a strong mat
 My skills:
 Programming Languages:
 Python, SQL , Oracle SQL, Pyspark, Dax 
-<img src="[path/to/your/image.png](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/36f31db4-5284-43a9-86b6-5fa4ad250f01)" alt="Image Description" width="300" height="200">
-
-
-![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/36f31db4-5284-43a9-86b6-5fa4ad250f01)
-![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/241a541a-d38b-4dcd-b00b-860de98eff3a)
-![image](https://github.com/A7med-Sh3baan/A7med-Sh3baan/assets/60860005/c656d155-9eef-40ed-ad7d-96af5144aa43)
-
+https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg
 Technologies:
 Data Science
 
